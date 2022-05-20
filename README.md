@@ -11,8 +11,8 @@ x Broadcast receivers
 
 The app uses MVVM design pattern. Figures below outline the overview of the application architecture.
 
-<img src="images/architecture.jpg">
+<img src="images/architecture.png">
 
 Design Flow:
 
-<img src="images/workflow.jpg">
+<img src="images/workflow.png">
