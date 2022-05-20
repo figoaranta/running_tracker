@@ -9,7 +9,7 @@ This application helps user to track their running activity based on distance an
 - Content Provider
 - (x) Broadcast receivers
 
-The app uses MVVM design pattern. Figures below outline the overview of the application architecture.
+The app uses MVVM and Observer design patterns. Figures below outline the overview of the application architecture.
 
 <img src="images/architecture.png">
 
