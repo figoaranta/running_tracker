@@ -16,3 +16,6 @@ The app uses MVVM and Observer design patterns. Figures below outline the overvi
 Design Flow:
 
 <img src="images/workflow.png">
+
+## Demo Video:
+https://drive.google.com/file/d/1wQr7vbE84QNOJGXKhBzdv3HcF6vgBj-A/view?usp=sharing
